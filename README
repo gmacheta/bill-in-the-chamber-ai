@@ -1,0 +1,2 @@
+This project is a predictive web application that uses AI to determine whether a bill will pass the U.S. Senate based on senator profiles and the bill's content. It leverages the Congress.gov API to fetch data about senators and bills, and an AI language model to analyze the bill and predict its passage. The project is deployed using Modal, a serverless cloud framework.
+
